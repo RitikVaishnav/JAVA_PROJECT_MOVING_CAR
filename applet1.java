@@ -17,7 +17,7 @@ Label l;
    
    
      setBackground(Color.black);
-      //z=getWidth();
+      z=getWidth();
       Color c1=new Color(20,160,200);
       Color c2=new Color(200,60,200);
       g.setColor(c1);
